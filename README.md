@@ -1,6 +1,6 @@
 # TaskApp
 
-![TaskApp screenshot](../screenshot.png)
+![TaskApp screenshot](./screenshot.png)
 
 TaskApp is a Spring Boot REST API for managing tasks. It uses Spring Web, Spring Data JPA, validation, and an in-memory H2 database.
 
